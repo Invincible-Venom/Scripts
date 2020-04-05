@@ -1,3 +1,7 @@
+#
+#Doesn't work anymore. Try Mega or AFH.
+#
+
 echo -e "Setting Up Google Drive Client"
 cd ~
 wget https://docs.google.com/uc?id=0B3X9GlR6EmbnWksyTEtCM0VfaFE&export=download
